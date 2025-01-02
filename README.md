@@ -12,7 +12,11 @@ Assignment about **Huffman's algorithm** and **median maintenance** using two he
 <br/>
 
 ### 2nd assignment:
-Assignment about Birary Search Trees (BST) and Huffman algorithm. Files are located [here](https://github.com/ParsaMohammadpour/advanced-algorithm-assignments/tree/main/2nd-Assignment).
+Assignment about Binary Search Trees (BST) and Huffman algorithm. Files are located [here](https://github.com/ParsaMohammadpour/advanced-algorithm-assignments/tree/main/2nd-Assignment).
+<br/>
+
+### 2nd code assignment:
+Assignment about **Convex Hull problem** and solving it using **Gift Wrapping Algorithm**. The codes are provided [here](https://github.com/ParsaMohammadpour/advanced-algorithm-assignments/tree/main/2nd-Code-Assignment) and use OpenCV library for visualizing in python language.
 <br/>
 
 ### Presentation:
